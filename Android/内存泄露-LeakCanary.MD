@@ -1,7 +1,7 @@
 LeakCanary介绍
 LeakCanary 是一个开源的在debug版本中检测内存泄漏的java库。
 
-[地址](https://github.com/square/leakcanary)
+[LeakCanary项目地址](https://github.com/square/leakcanary)
 
 一个cait的例子：
 
